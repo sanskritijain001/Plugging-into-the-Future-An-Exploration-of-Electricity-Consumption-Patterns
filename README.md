@@ -79,7 +79,7 @@ energy_flask/
 ---
 
 ## 🔗 Tableau Public Link
-[View Dashboard](https://public.tableau.com/app/profile/vaishnavi.aggarwal/viz/energy_project/Story1)
+[View Dashboard](https://public.tableau.com/app/profile/vaishnavi.aggarwal/viz/energy_project/PluggingintotheFuture)
 
 ---
 
